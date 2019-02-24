@@ -1,0 +1,44 @@
+body{
+    background: #b1907f;
+}
+#title{
+    align-content: center;
+    font-family: 'Libre Baskerville', serif;
+    width: 100%;
+    background: black;
+    color: white
+}
+button{
+    background: black;
+    font-size: 24px;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    padding:5px;
+    text-align: center;
+}
+#timer{
+    font-size: 24px;
+    font-family: 'Libre Baskerville', serif;
+    align-content: center;
+    color: white;
+    width: 100%;
+    border:3px, black;
+}
+#textbody{
+    font-size: 20px;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color: black;
+    width: 100%;
+}
+.quest{
+    font-size: 16px;
+}
+
+.ans{
+    font-size:16px;
+    background:black;
+    border: black,2px;
+    color:white;
+}
+
